@@ -18,6 +18,3 @@
 - Designed and maintained data-driven dashboards for stakeholders, improving procurement efficiency
 - Identified and provided detailed financial data for external auditors, identifying 3-way matches (purchase order, receipt, and invoice) for $23 million worth of purchases, ensuring compliance with procurement policies
 - Implemented data tracking systems to capture the collection of procurement and asset data, improving reporting accuracy for both internal and external audit reviews
-
-## Projects
-###
