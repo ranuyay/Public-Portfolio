@@ -4,7 +4,7 @@
 
 ## Education
 - M.S., Data Science | University of Maryland Global Campus (_March 2026_)	 			        		
-- B.S., Linguistics | University of Maryland College Park (_May 2012_)
+- B.A., Linguistics | University of Maryland College Park (_May 2012_)
 
 ## Work Experience
 **Senior Data Analyst @ DC Office of Contracting and Procurement (_November 2022 - April 2024_)**
