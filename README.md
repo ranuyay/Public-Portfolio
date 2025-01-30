@@ -20,4 +20,6 @@
 - Implemented data tracking systems to capture the collection of procurement and asset data, improving reporting accuracy for both internal and external audit reviews
 
 ## Projects
-###
+
+- Predicting Baseball Wins through Number of Home Runs
+This project uses binary logistic regression in R to determine how effective the number of home runs is in predicting whether a baseball game is won or lost. Data sourced from Entity Academy. 
