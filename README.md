@@ -4,7 +4,7 @@
 
 ## Education
 - M.S., Data Science | University of Maryland Global Campus (_March 2026_)	 			        		
-- B.S., Linguistics | University of Maryland College Park (_May 2012_)
+- B.A., Linguistics | University of Maryland College Park (_May 2012_)
 
 ## Work Experience
 **Senior Data Analyst @ DC Office of Contracting and Procurement (_November 2022 - April 2024_)**
@@ -18,8 +18,11 @@
 - Designed and maintained data-driven dashboards for stakeholders, improving procurement efficiency
 - Identified and provided detailed financial data for external auditors, identifying 3-way matches (purchase order, receipt, and invoice) for $23 million worth of purchases, ensuring compliance with procurement policies
 - Implemented data tracking systems to capture the collection of procurement and asset data, improving reporting accuracy for both internal and external audit reviews
+<<<<<<< HEAD
 
 ## Projects
 
 - Predicting Baseball Wins through Number of Home Runs
 This project uses binary logistic regression in R to determine how effective the number of home runs is in predicting whether a baseball game is won or lost. Data sourced from Entity Academy. 
+=======
+>>>>>>> 8723bac77e6e89c2d434819c22abe66e7ab8bab8
