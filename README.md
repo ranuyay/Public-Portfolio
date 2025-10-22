@@ -20,9 +20,6 @@
 - Identified gaps in inventory tracking and assisted in developing solutions that improved audit readiness.
 - Contributed to the early design of a centralized Quickbase inventory system.
 - Promoted to Senior Data Analyst for analytical impact and leadership in process improvement.
-<<<<<<< HEAD
-
-## Projects
 
 - Netflix Revenue Data Exploration
 <br> This simple data story and presentation provides an overview of Netflix's revenue streams and trajectories. Data sourced from Netflix Investor Relations reports.
