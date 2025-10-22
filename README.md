@@ -25,6 +25,7 @@
 ## Projects
 
 - Netflix Revenue Data Exploration
-This simple data story and presentation provides an overview of Netflix's revenue streams and trajectories. Data sourced from Netflix Investor Relations reports.
+<br> This simple data story and presentation provides an overview of Netflix's revenue streams and trajectories. Data sourced from Netflix Investor Relations reports.
 
-- 
+- Identifying Leaves Using Cluster Analysis
+<br> This project segments a collection of unlabeled leaf specimens into homogeneous groups based on shape and texture measurements using the kmeans clustering algorithm. Code presented in Python, notebook opens in Jupyter. Dataset sourced from UC Irvine Machine Learning Repository. 
