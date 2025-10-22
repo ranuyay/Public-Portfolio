@@ -38,3 +38,18 @@ The analysis identified four distinct morphological clusters explaining 66.4% of
 Developed a complete Extract, Transform, Load (ETL) process to consolidate and standardize three years of sales and production data (2021–2023) for Beverages R Us.  
 The project resolved inconsistencies across legacy systems, implemented a normalized data schema, and produced an analysis-ready data mart optimized for executive and regional reporting.
 
+---
+
+### [Netflix Time Series Analysis (2012–2024)](https://github.com/ranuyay/netflix-time-series-analysis)
+**Stack:** Tableau · Time Series Forecasting · Data Visualization · Predictive Analytics  
+
+**Summary:**  
+Performed a longitudinal time series analysis of Netflix subscriber growth and engagement metrics from 2012 to 2024 using Tableau.  
+Developed forecasting models employing exponential smoothing and trend-based prediction to project future subscription patterns.  
+The project integrates visual analytics and statistical forecasting to provide insights into long-term platform growth and market behavior.
+
+**Presentation:**  
+[Part 1: Overview and Data Exploration](https://www.loom.com/share/89a5870de39444918c63ebe49d542e09?sid=11e28e0e-5948-4e81-925e-db383bc8fc3c)  
+[Part 2: Forecasting and Insights](https://www.loom.com/share/ebea6128e25f4d4f8540bdfc251c862a?sid=fa4f85d2-3c5f-4837-ba73-0f7cbfb0eaa4)
+
+
