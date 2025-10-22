@@ -1,26 +1,28 @@
 # Data Scientist
 
-#### Technical Skills: Python, SQL, R, AWS, Tableau, PowerBI
+#### Technical Skills: Python, SQL, NoSQL, R, AWS, Tableau, PowerBI
 
 ## Education
-- M.S., Data Science | University of Maryland Global Campus (_March 2026_)	 			        		
-- B.A., Linguistics | University of Maryland College Park (_May 2012_)
+- M.S., Data Analytics | University of Maryland Global Campus (_March 2026_)	 			        		
+- B.A., Linguistics, Minor Japanese | University of Maryland College Park (_May 2012_)
 
 ## Work Experience
 **Senior Data Analyst @ DC Office of Contracting and Procurement (_November 2022 - April 2024_)**
-- Designed and executed data science projects to address organizational challenges, resulting in a 12% increase in auction success rates through optimized ETL pipelines using Python and Tableau Prep.
-- Analyzed large and complex datasets, performing A/B testing and various statistical analyses to create meaningful predictive models, achieving $790,000 in operational cost savings through optimized purchase scheduling
-- Improved policy compliance by drafting comprehensive SOPs for procurement and risk management, reducing audit-related issues
-- Mentored junior analysts on advanced data techniques and agile project management methodologies, fostering an environment of continuous learning and innovation
+- Led data analysis during seven concurrent external audits, reconciling $23M in transactions and creating a new SOP that strengthened compliance.
+- Automated repetitive data preparation with a Python wrangling script and SQL pipeline—reducing manual cleanup time by ~60% and standardizing analytics across teams.
+- Integrated auction and inventory data into SQL; built R-based forecasting models and Tableau dashboards to improve revenue projections and transparency.
+- Created a PPE purchasing model using throughput and distribution data to optimize order volumes and reduce excess inventory.
+- Partnered with leadership to plan long-term strategies for centralized inventory tracking and data-driven reporting.
 
 **Business Analyst @ DC Office of Contracting and Procurement (_June 2022 - November 2022_)**
-- Following CRISP-DM, collaborated across departments using agile methodologies to streamline and automate data workflows, enhancing logistics management for emergency response inventory and reducing process delays by 15%
-- Designed and maintained data-driven dashboards for stakeholders, improving procurement efficiency
-- Identified and provided detailed financial data for external auditors, identifying 3-way matches (purchase order, receipt, and invoice) for $23 million worth of purchases, ensuring compliance with procurement policies
-- Implemented data tracking systems to capture the collection of procurement and asset data, improving reporting accuracy for both internal and external audit reviews
-<<<<<<< HEAD
+- Supported COVID-19 emergency procurement operations by tracking contract spend, calculating burn rates, and preparing documentation for FEMA reimbursement.
+- Consolidated procurement and distribution data from multiple systems to improve budget projections and financial transparency.
+- Identified gaps in inventory tracking and assisted in developing solutions that improved audit readiness.
+- Contributed to the early design of a centralized Quickbase inventory system.
+- Promoted to Senior Data Analyst for analytical impact and leadership in process improvement.
 
-## Projects
+- Netflix Revenue Data Exploration
+<br> This simple data story and presentation provides an overview of Netflix's revenue streams and trajectories. Data sourced from Netflix Investor Relations reports.
 
-- Predicting Baseball Wins through Number of Home Runs
-This project uses binary logistic regression in R to determine how effective the number of home runs is in predicting whether a baseball game is won or lost. Data sourced from Entity Academy.
+- Identifying Leaves Using Cluster Analysis
+<br> This project segments a collection of unlabeled leaf specimens into homogeneous groups based on shape and texture measurements using the kmeans clustering algorithm. Code presented in Python, notebook opens in Jupyter. Dataset sourced from UC Irvine Machine Learning Repository. 
