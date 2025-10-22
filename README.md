@@ -20,9 +20,15 @@
 - Identified gaps in inventory tracking and assisted in developing solutions that improved audit readiness.
 - Contributed to the early design of a centralized Quickbase inventory system.
 - Promoted to Senior Data Analyst for analytical impact and leadership in process improvement.
+## Featured Projects 
+### Leaf Clustering Analysis
+**Stack:** Python · scikit-learn · PCA · K-Means  
+
+**Summary:**  
+Unsupervised learning project exploring shape and texture features of 340 leaf specimens using PCA and K-Means clustering.  
+The analysis identified four distinct morphological clusters explaining 66.4% of total variance.
+
+**Repository:** [github.com/ranuyay/leaf-clustering-analysis](https://github.com/ranuyay/leaf-clustering-analysis)
 
 - Netflix Revenue Data Exploration
 <br> This simple data story and presentation provides an overview of Netflix's revenue streams and trajectories. Data sourced from Netflix Investor Relations reports.
-
-- Identifying Leaves Using Cluster Analysis
-<br> This project segments a collection of unlabeled leaf specimens into homogeneous groups based on shape and texture measurements using the kmeans clustering algorithm. Code presented in Python, notebook opens in Jupyter. Dataset sourced from UC Irvine Machine Learning Repository. 
