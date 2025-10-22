@@ -20,15 +20,21 @@
 - Identified gaps in inventory tracking and assisted in developing solutions that improved audit readiness.
 - Contributed to the early design of a centralized Quickbase inventory system.
 - Promoted to Senior Data Analyst for analytical impact and leadership in process improvement.
-## Featured Projects 
-### Leaf Clustering Analysis
+## Featured Projects
+
+### [Leaf Clustering Analysis](https://github.com/ranuyay/leaf-clustering-analysis)
 **Stack:** Python · scikit-learn · PCA · K-Means  
 
 **Summary:**  
 Unsupervised learning project exploring shape and texture features of 340 leaf specimens using PCA and K-Means clustering.  
 The analysis identified four distinct morphological clusters explaining 66.4% of total variance.
 
-**Repository:** [github.com/ranuyay/leaf-clustering-analysis](https://github.com/ranuyay/leaf-clustering-analysis)
+---
 
-- Netflix Revenue Data Exploration
-<br> This simple data story and presentation provides an overview of Netflix's revenue streams and trajectories. Data sourced from Netflix Investor Relations reports.
+### [Beverages R Us – ETL Data Management](https://github.com/ranuyay/beverages-r-us-etl)
+**Stack:** SQL · Data Warehousing · ETL · Relational Modeling  
+
+**Summary:**  
+Developed a complete Extract, Transform, Load (ETL) process to consolidate and standardize three years of sales and production data (2021–2023) for Beverages R Us.  
+The project resolved inconsistencies across legacy systems, implemented a normalized data schema, and produced an analysis-ready data mart optimized for executive and regional reporting.
+
