@@ -1,4 +1,4 @@
-# Data Scientist
+# Junior Data Scientist
 
 #### Technical Skills: Python, SQL, NoSQL, R, AWS, Tableau, PowerBI
 
