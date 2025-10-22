@@ -23,6 +23,4 @@
 ## Projects
 
 - Predicting Baseball Wins through Number of Home Runs
-This project uses binary logistic regression in R to determine how effective the number of home runs is in predicting whether a baseball game is won or lost. Data sourced from Entity Academy. 
-=======
->>>>>>> 8723bac77e6e89c2d434819c22abe66e7ab8bab8
+This project uses binary logistic regression in R to determine how effective the number of home runs is in predicting whether a baseball game is won or lost. Data sourced from Entity Academy.
