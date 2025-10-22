@@ -4,23 +4,27 @@
 
 ## Education
 - M.S., Data Analytics | University of Maryland Global Campus (_March 2026_)	 			        		
-- B.A., Linguistics, minor Japanese | University of Maryland College Park (_May 2012_)
+- B.A., Linguistics, Minor Japanese | University of Maryland College Park (_May 2012_)
 
 ## Work Experience
 **Senior Data Analyst @ DC Office of Contracting and Procurement (_November 2022 - April 2024_)**
-- Developed budget tracking dashboards in Tableau to monitor contract spend against projections, giving executives real-time visibility into allocations and variances.
-- Built SQL-based financial reporting pipelines to validate multimillion-dollar procurement and asset expenses, reducing manual effort and ensuring policy compliance.
-- Designed and analyzed financial models and A/B tests that optimized procurement schedules, contributing to $790K in operational cost savings.
-- Partnered with program managers to evaluate budget requests and translate operational needs into defensible funding justifications.
-- Drafted SOPs to improve fiscal compliance and accountability across procurement operations.
+- Led data analysis during seven concurrent external audits, reconciling $23M in transactions and creating a new SOP that strengthened compliance.
+- Automated repetitive data preparation with a Python wrangling script and SQL pipeline—reducing manual cleanup time by ~60% and standardizing analytics across teams.
+- Integrated auction and inventory data into SQL; built R-based forecasting models and Tableau dashboards to improve revenue projections and transparency.
+- Created a PPE purchasing model using throughput and distribution data to optimize order volumes and reduce excess inventory.
+- Partnered with leadership to plan long-term strategies for centralized inventory tracking and data-driven reporting.
 
 **Business Analyst @ DC Office of Contracting and Procurement (_June 2022 - November 2022_)**
-- Following CRISP-DM, collaborated across departments using agile methodologies to streamline and automate data workflows, enhancing logistics management for emergency response inventory and reducing process delays by 15%
-- Supported validation of procurement data and budget compliance for $23M+ in emergency and surplus asset purchases.
-- Implemented systems to track spending efficiency and asset redistribution outcomes.
+- Supported COVID-19 emergency procurement operations by tracking contract spend, calculating burn rates, and preparing documentation for FEMA reimbursement.
+- Consolidated procurement and distribution data from multiple systems to improve budget projections and financial transparency.
+- Identified gaps in inventory tracking and assisted in developing solutions that improved audit readiness.
+- Contributed to the early design of a centralized Quickbase inventory system.
+- Promoted to Senior Data Analyst for analytical impact and leadership in process improvement.
 <<<<<<< HEAD
 
 ## Projects
 
-- Predicting Baseball Wins through Number of Home Runs
-This project uses binary logistic regression in R to determine how effective the number of home runs is in predicting whether a baseball game is won or lost. Data sourced from Entity Academy.
+- Netflix Revenue Data Exploration
+This simple data story and presentation provides an overview of Netflix's revenue streams and trajectories. Data sourced from Netflix Investor Relations reports.
+
+- 
