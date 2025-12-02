@@ -55,4 +55,12 @@ The project integrates visual analytics and statistical forecasting to provide i
 [Part 1: Overview and Data Exploration](https://www.loom.com/share/89a5870de39444918c63ebe49d542e09?sid=11e28e0e-5948-4e81-925e-db383bc8fc3c)  
 [Part 2: Forecasting and Insights](https://www.loom.com/share/ebea6128e25f4d4f8540bdfc251c862a?sid=fa4f85d2-3c5f-4837-ba73-0f7cbfb0eaa4)
 
+---
 
+### [Spam Email Classification Using Logistic Regression](https://github.com/ranuyay/spam-email-classification)
+**Stack:** Python · Logistic Regression · PCA · Feature Engineering · Model Evaluation  
+
+**Summary:**  
+Developed a logistic regression model to classify emails as spam or not spam using the UCI Spambase dataset.  
+The project includes extensive exploratory data analysis, feature transformation, multicollinearity diagnostics, PCA reduction, and evaluation of multiple logistic models with and without regularization.  
+Final models achieved an accuracy of approximately 93.5% and an ROC AUC of 0.975, demonstrating strong discriminative performance across both spam and non-spam classes.
