@@ -12,8 +12,8 @@ A driven junior data scientist from the DMV, bringing sharp analytical instincts
 ## Work Experience
 **Senior Data Analyst @ DC Office of Contracting and Procurement (_November 2022 - April 2024_)**
 - Led data analysis during seven concurrent external audits, reconciling $23M in transactions and creating a new SOP that strengthened compliance.
-- Automated repetitive data preparation with a Python wrangling script and SQL pipeline—reducing manual cleanup time by ~60% and standardizing analytics across teams.
-- Integrated auction and inventory data into SQL; built R-based forecasting models and Tableau dashboards to improve revenue projections and transparency.
+- Automated repetitive data preparation with a Python wrangling script and SQL pipeline—reducing ad hoc reporting time by 98% and standardizing analytics across teams.
+- Integrated auction and inventory data into Microsoft SQL Server; built R-based forecasting models and Tableau dashboards to improve revenue projections and transparency.
 - Created a PPE purchasing model using throughput and distribution data to optimize order volumes and reduce excess inventory.
 - Partnered with leadership to plan long-term strategies for centralized inventory tracking and data-driven reporting.
 
