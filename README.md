@@ -6,7 +6,7 @@
 A driven junior data scientist from the DMV, bringing sharp analytical instincts, creative problem-solving, and the kind of perspective the industry needs more of.
 
 ## Education
-- M.S., Data Analytics | University of Maryland Global Campus (_March 2026_)	 			        		
+- M.S., Data Analytics | University of Maryland Global Campus (August 2026_)	 			        		
 - B.A., Linguistics, Minor Japanese | University of Maryland College Park (_May 2012_)
 
 ## Work Experience
