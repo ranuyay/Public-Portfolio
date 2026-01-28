@@ -25,6 +25,17 @@ A driven junior data scientist from the DMV, bringing sharp analytical instincts
 - Promoted to Senior Data Analyst for analytical impact and leadership in process improvement.
 ## Featured Projects
 
+### [Sentiment Classification with Human-in-the-Loop Review (SST-2)](https://github.com/ranuyay/sentiment-ffnn-sst2)
+
+**Stack:** Python · TensorFlow · Neural Networks · NLP · Model Evaluation
+
+**Summary:**
+Developed a binary sentiment classification system using a feed-forward neural network trained on the GLUE SST-2 dataset.
+The project emphasizes responsible deployment by separating model prediction from decision policy through confidence thresholding and a human-in-the-loop review workflow.
+In addition to standard evaluation metrics, the analysis includes exploratory text analysis, linguistic error inspection, and an operational design that routes low-confidence predictions for manual review, prioritizing reliability, auditability, and real-world applicability.
+
+---
+
 ### [Leaf Clustering Analysis](https://github.com/ranuyay/leaf-clustering-analysis)
 **Stack:** Python · scikit-learn · PCA · K-Means  
 
